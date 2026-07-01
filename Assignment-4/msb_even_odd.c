@@ -3,7 +3,7 @@ int main(){
     int i;
     int count=0;
     printf("enter the value:");
-    scanf("%d",&i);
+    scanf("%d",&i);...
     int j=i;
     loop1:if(i>0){ 
         count =count+1;
